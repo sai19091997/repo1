@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6607-68E4
+
+ Directory of C:\Users\SAI\OneDrive\Desktop\gitproj
+
+19-07-2023  12:03    <DIR>          .
+19-07-2023  12:02    <DIR>          ..
+19-07-2023  12:03                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  390,984,044,544 bytes free
